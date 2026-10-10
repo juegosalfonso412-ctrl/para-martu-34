@@ -1,0 +1,13 @@
+MUNDO 3D PARA MARTU ❤️
+
+1. Descomprimí el ZIP.
+2. En GitHub creá un repositorio público.
+3. Subí index.html, la carpeta assets y este archivo.
+4. Entrá a Settings > Pages.
+5. En Build and deployment elegí Deploy from a branch, branch main y carpeta /(root), y guardá.
+6. Cuando GitHub Pages termine, abrí el enlace que te muestra.
+
+La página tiene un mundo 3D, fotos, frases, carta y un botón ♪ Música.
+Al tocar Música se abre el reproductor oficial de YouTube de “Loco (Tu Forma de Ser)” de Los Auténticos Decadentes. En algunos celulares el navegador puede pedir tocar reproducir dentro del reproductor.
+
+Para que las fotos aparezcan, mantené la carpeta assets junto a index.html.
